@@ -1,0 +1,10 @@
+*.pyc
+*.out
+*.log
+pID_year.txt
+.ipynb_checkpoints/
+*.net
+*.tgz
+*.tar.gz
+test*
+data/
